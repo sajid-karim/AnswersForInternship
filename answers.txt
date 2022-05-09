@@ -1,2 +1,6 @@
 git diff branchname // to check differences
 git merge branchname // to merge it to current active branch
+
+
+We can create a branch of the master and work on it and later merge the 
+branches.
