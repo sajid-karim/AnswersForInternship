@@ -9,3 +9,6 @@ The branch name should be informative.
 Git branch with the Author name.
 Use separators.
 Branch out only when a major feature is being added.
+
+Write short and precise messages.
+The message should tell about what is changed.
