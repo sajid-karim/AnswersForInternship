@@ -4,3 +4,8 @@ git merge branchname // to merge it to current active branch
 
 We can create a branch of the master and work on it and later merge the 
 branches.
+
+The branch name should be informative.
+Git branch with the Author name.
+Use separators.
+Branch out only when a major feature is being added.
